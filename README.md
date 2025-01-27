@@ -1,1 +1,3 @@
-# IS_T7_AtivIII_AplicacaoIntegradora
+# Integração de Sistemas
+
+### Tarefa 7 - Atividade III: Aplicação Integradora de Sistemas (Sistema de Apostas EuroMil)
