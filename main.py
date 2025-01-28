@@ -11,7 +11,7 @@ CORS(app)
 
 # Configurações para os serviços externos
 CREDIBANK_URL = "http://localhost:8080"
-EUROMIL_SERVER = "localhost:50051"
+EUROMIL_SERVER = "localhost:6565"
 
 # Função para criar o cheque digital usando o serviço CrediBank
 def generate_digital_check(credit_account_id, value):
